@@ -1,8 +1,9 @@
 body {
-  background: #f6f4f4f6;
+  background: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/141/639/original/weather_image.jpg?1725195028);
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-style: normal;
+  background-size: cover;
 }
 
 .weather-app {
